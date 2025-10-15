@@ -46,3 +46,17 @@ Unity_Practicas_0.0.1/
 │   │   ├── Player/                         
 │
 └── Packages/
+
+Practicas
+Practica 1
+https://drive.google.com/file/d/1DI8HRzskkn89t8EA_CV7mGIfRxMjroSi/view?usp=sharing
+
+Práctica 2
+https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=sharing
+
+<div align="center">
+
+✨ Gracias por visitar este repositorio.
+Si te gustó el proyecto, ¡dale una ⭐ en GitHub!
+
+</div>
