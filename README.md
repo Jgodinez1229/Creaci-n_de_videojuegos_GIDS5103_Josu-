@@ -28,6 +28,21 @@ Practicar los fundamentos del **desarrollo de videojuegos 2D** utilizando **Unit
 Este repositorio recopila las prácticas desarrolladas durante los tutoriales del **Juego de Plataformas 2D**, abarcando desde la creación del entorno hasta la implementación de niveles, enemigos y menús interactivos.  
 Cada práctica se realizó con base en los pasos de la guía académica y los tutoriales en video proporcionados.
 
+## Practicas
+
+## Practica 1
+https://drive.google.com/file/d/1DI8HRzskkn89t8EA_CV7mGIfRxMjroSi/view?usp=sharing
+
+## Práctica 2
+https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=sharing
+
+<div align="center">
+
+✨ Gracias por visitar este repositorio.
+Si te gustó el proyecto, ¡dale una ⭐ en GitHub!
+
+</div>
+
 ---
 
 ## 🗂️ Estructura de carpetas
@@ -47,16 +62,4 @@ Unity_Practicas_0.0.1/
 │
 └── Packages/
 
-Practicas
-Practica 1
-https://drive.google.com/file/d/1DI8HRzskkn89t8EA_CV7mGIfRxMjroSi/view?usp=sharing
 
-Práctica 2
-https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=sharing
-
-<div align="center">
-
-✨ Gracias por visitar este repositorio.
-Si te gustó el proyecto, ¡dale una ⭐ en GitHub!
-
-</div>
