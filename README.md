@@ -38,6 +38,9 @@ https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=shari
 
 Video : https://drive.google.com/file/d/1l4uTjy9pRffG1YFf2m0JtzhgMo9Vl55r/view?usp=sharing
 
+## Práctica 3 (avance)
+https://docs.google.com/document/d/1LHgvdjMmlgY2EiaxCB23Ev4T4pS3DWsd/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
+
 <div align="center">
 
 ✨ Gracias por visitar este repositorio.
@@ -63,5 +66,19 @@ Unity_Practicas_0.0.1/
 │   │   ├── Player/                         
 │
 └── Packages/
+```
+## ** Ejercicios Prácticos ** 
+(no he podido avanzar por lo de mi laptop profesor, perdone es lo que me ha dejado hacer estos días)
+Ejercicio Práctico 01 
+
+Ejercicio Práctico 02 
+
+Ejercicio Práctico 03 
+
+Ejercicio Práctico 04 Barra de Vida 
+
+Ejercicio Práctico 05 MultiPlayer
+Avance: https://docs.google.com/document/d/1fh7iG_pHJw-cp5m2158EZbnWDzsDmAEa/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
+
 
 
