@@ -68,7 +68,8 @@ Unity_Practicas_0.0.1/
 └── Packages/
 ```
 ## ** Ejercicios Prácticos ** 
-(no he podido avanzar por lo de mi laptop profesor, perdone es lo que me ha dejado hacer estos días)
+(no he podido avanzar por lo de mi laptop profesor, perdone)
+
 Ejercicio Práctico 01 
 
 Ejercicio Práctico 02 
