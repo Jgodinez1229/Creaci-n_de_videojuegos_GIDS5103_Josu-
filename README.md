@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=shari
 
 Video : https://drive.google.com/file/d/1l4uTjy9pRffG1YFf2m0JtzhgMo9Vl55r/view?usp=sharing
 
-## Práctica 3 
+## Práctica 3 (sigue sin funcionar bien la cámara)
 https://docs.google.com/document/d/1kN-iAaL3-UF10lzjfyQ3VCrJqe-zvybw/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
 
 Video: https://drive.google.com/file/d/1IN2M7DzHDwhCRGHuS5PKht5RC_IVvcsn/view?usp=sharing
