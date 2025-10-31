@@ -33,6 +33,8 @@ Cada práctica se realizó con base en los pasos de la guía académica y los tu
 ## Practica 1
 https://drive.google.com/file/d/1DI8HRzskkn89t8EA_CV7mGIfRxMjroSi/view?usp=sharing
 
+Video: https://drive.google.com/file/d/1o64vpLnovI5o42ZsCSIyDBbZX2Scy-EU/view?usp=sharing
+
 ## Práctica 2
 https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=sharing
 
