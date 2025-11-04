@@ -45,6 +45,11 @@ https://docs.google.com/document/d/1kN-iAaL3-UF10lzjfyQ3VCrJqe-zvybw/edit?usp=sh
 
 Video: https://drive.google.com/file/d/1IN2M7DzHDwhCRGHuS5PKht5RC_IVvcsn/view?usp=sharing
 
+## Práctica 4 
+https://drive.google.com/file/d/1bRgNMZfC5xXemv_dQXsFpuVgAdM-IN1E/view?usp=sharing
+
+Video: https://drive.google.com/file/d/1wQdF22jA7PvjTUwe2ad1d0IgTVx0m3nP/view?usp=sharing
+
 <div align="center">
 
 ✨ Gracias por visitar este repositorio.
