@@ -50,6 +50,16 @@ https://drive.google.com/file/d/1bRgNMZfC5xXemv_dQXsFpuVgAdM-IN1E/view?usp=shari
 
 Video: https://drive.google.com/file/d/1wQdF22jA7PvjTUwe2ad1d0IgTVx0m3nP/view?usp=sharing
 
+## Práctica 5
+https://drive.google.com/file/d/1LqD9wICybepFo4VWKr0z1ojI6-64-V6X/view?usp=sharing
+
+Video:
+
+## Práctica 6
+https://drive.google.com/file/d/1K2st4P792vW3hLeZEWVFQ5fZ78Cssv_9/view?usp=sharing
+
+Video:
+
 <div align="center">
 
 ✨ Gracias por visitar este repositorio.
