@@ -40,10 +40,10 @@ https://drive.google.com/file/d/1u8vvQxr_nac9i2xXaHPaToqfxI5BEmid/view?usp=shari
 
 Video : https://drive.google.com/file/d/1l4uTjy9pRffG1YFf2m0JtzhgMo9Vl55r/view?usp=sharing
 
-## Práctica 3 (sigue sin funcionar bien la cámara)
+## Práctica 3 
 https://docs.google.com/document/d/1kN-iAaL3-UF10lzjfyQ3VCrJqe-zvybw/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
 
-Video: https://drive.google.com/file/d/1IN2M7DzHDwhCRGHuS5PKht5RC_IVvcsn/view?usp=sharing
+Video: https://drive.google.com/file/d/1IHLl9qkD08HGPXxSyZXxsEyXW3TPwE_T/view?usp=sharing
 
 ## Práctica 4 
 https://drive.google.com/file/d/1bRgNMZfC5xXemv_dQXsFpuVgAdM-IN1E/view?usp=sharing
@@ -53,7 +53,7 @@ Video: https://drive.google.com/file/d/1wQdF22jA7PvjTUwe2ad1d0IgTVx0m3nP/view?us
 ## Práctica 5
 https://drive.google.com/file/d/1LqD9wICybepFo4VWKr0z1ojI6-64-V6X/view?usp=sharing
 
-Video:
+Video: https://drive.google.com/file/d/1eudSDlGp5Xea0X_tmjpOexeVs6LH-jZN/view?usp=sharing
 
 ## Práctica 6
 https://drive.google.com/file/d/1K2st4P792vW3hLeZEWVFQ5fZ78Cssv_9/view?usp=sharing
