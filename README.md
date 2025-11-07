@@ -58,7 +58,7 @@ Video: https://drive.google.com/file/d/1eudSDlGp5Xea0X_tmjpOexeVs6LH-jZN/view?us
 ## Práctica 6
 https://drive.google.com/file/d/1K2st4P792vW3hLeZEWVFQ5fZ78Cssv_9/view?usp=sharing
 
-Video:
+Video: https://drive.google.com/file/d/1siiKu6L9nBIMP0jmh-hdX6a90zVaskkJ/view?usp=sharing
 
 <div align="center">
 
