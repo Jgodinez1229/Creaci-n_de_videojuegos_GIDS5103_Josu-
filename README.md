@@ -98,7 +98,10 @@ Ejercicio Práctico 03
 Ejercicio Práctico 04 Barra de Vida 
 
 Ejercicio Práctico 05 MultiPlayer
-Avance: https://docs.google.com/document/d/1fh7iG_pHJw-cp5m2158EZbnWDzsDmAEa/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
+https://docs.google.com/document/d/1fh7iG_pHJw-cp5m2158EZbnWDzsDmAEa/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
+
+Video:
+https://drive.google.com/file/d/1JYrGESM6AMHAC2Do7hQFflxZ3mPtpe0f/view?usp=sharing
 
 
 
