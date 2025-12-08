@@ -96,7 +96,10 @@ Unity_Practicas_0.0.1/
 
 ## ------------------------------------------------------------------------------------------- ##
 **Ejercicio Práctico 03 Barra de Vida** 
+PDF: https://drive.google.com/file/d/11cR_3fonb2UGgjpE5enBH4yoGKpwI2SB/view?usp=sharing
 
+
+VIDEO: https://drive.google.com/file/d/1RMJIyiFwIL5hFmHhrTdKysS48Kvp8Jul/view?usp=sharing
 
 ## ------------------------------------------------------------------------------------------- ##
 **Ejercicio Práctico 04 Multijugador** 
@@ -122,7 +125,7 @@ PDF: https://docs.google.com/document/d/1fh7iG_pHJw-cp5m2158EZbnWDzsDmAEa/edit?u
 
 
 Video:
-https://drive.google.com/file/d/1JYrGESM6AMHAC2Do7hQFflxZ3mPtpe0f/view?usp=sharing
+
 
 
 
