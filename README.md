@@ -121,10 +121,10 @@ Video: https://drive.google.com/file/d/1g149yUqEyCQW_CLDJiKRWI_2l9EPzNy0/view?us
 ## ------------------------------------------------------------------------------------------- ##
 **Ejercicio Práctico 06 MultiPlayer:**
 
-PDF: https://docs.google.com/document/d/1fh7iG_pHJw-cp5m2158EZbnWDzsDmAEa/edit?usp=sharing&ouid=117051298484985146448&rtpof=true&sd=true
+PDF: 
 
 
-Video:
+Video: https://drive.google.com/file/d/1Pgg80gwU0WkBWBG_Jibz1wxYeyReEgSU/view?usp=sharing
 
 
 
